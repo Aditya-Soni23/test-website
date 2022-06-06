@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.imgm{
+    width: 1000px;
+    height: 500px;
+}
+
+.btn{
+    font-weight: bolder;
+    background-color: violet;
+    color: black;
+}
+.red{
+    background-color: red;
+}
